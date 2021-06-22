@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-##Trilha de React Js da semana NLWTogether
+## Trilha de React Js da semana NLWTogether
 
 ## Available Scripts
 
